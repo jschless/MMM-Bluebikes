@@ -34,8 +34,8 @@ var config = {
         align: 'left',
         places: [
              {id: "76", name: "City Hall"},
-	           {id: "116", name: "359 Broadway"},
-	           {id: "107", name: "TPP"}
+	     {id: "116", name: "359 Broadway"},
+	     {id: "107", name: "TPP"}
         ]
       }
     }
@@ -65,9 +65,6 @@ Your feedback is more than welcome, please send your suggestions. I know almost 
 - Toggle docks display 
 - User only enters name of station, and app loads station id from the included json
 
-## Acknowledments
+## Acknowledgements
 
-Many thanks to [Michael Teeuw](https://github.com/MichMich) for creating and maintaining the [MagicMirror²](https://github.com/MichMich/MagicMirror/) project fully open source.
-
-## About the author
-
+Many thanks to [Michael Teeuw](https://github.com/MichMich) for creating and maintaining the [MagicMirror²](https://github.com/MichMich/MagicMirror/) project fully open source. Also, as I mentioned before, almost all of this code was taken from [György Balássy](https://www.linkedin.com/in/balassy). 
