@@ -55,12 +55,15 @@ var config = {
 
 In the `id` property of the objects in the `places` array of the configuration settings you have to specify the unique identifier of the station for which the module should display the bike availability.
 
-To obtain the unique identifier of the station, look up the station you are interested in in the station_list.json file. 
+To obtain the unique identifier of the station, look up the station you are interested in in the station_list.json file. You can find the station name by clicking on the station in the Bluebikes app / website. Then, search the json file for this name and note the "station_id". 
 
 
 ## Got feedback?
 
-Your feedback is more than welcome, please send your suggestions. I know almost nothing about js, but I can try to implement new features.
+Your feedback is more than welcome, please send your suggestions. I know almost nothing about js, but I can try to implement new features. Some features I'm considering adding:
+
+- Toggle docks display 
+- User only enters name of station, and app loads station id from the included json
 
 ## Acknowledments
 
