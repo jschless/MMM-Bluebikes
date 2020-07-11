@@ -31,12 +31,11 @@ var config = {
       position: 'top_right',
       config: {
         updateInterval: 600000, // 10 minutes in milliseconds
-        showPlaceName: true,
         align: 'left',
         places: [
-          { id: 1758935, name: 'MOMKult' },
-          { id: 1758923, name: 'MOM Park' },
-          { id: 366538,  name: 'BAH csomópont' }
+             {id: "76", name: "City Hall"},
+	           {id: "116", name: "359 Broadway"},
+	           {id: "107", name: "TPP"}
         ]
       }
     }
