@@ -1,37 +1,23 @@
-.MMM-Bluebikes .red {
-  color: #cd2230;
+.MMM-Bluebikes table {
+  width: auto !important;
 }
 
-.MMM-Bluebikes .blue {
-  color: #0064c8;
+.MMM-Bluebikes table.align-right {
+  float: right;
 }
 
-.MMM-Bluebikes .orange {
-  color: #ff8200;
+.MMM-Bluebikes .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
-.MMM-Bluebikes .green {
-  color: #428608;
+.MMM-Bluebikes .symbol-cell,
+.MMM-Bluebikes .count-cell {
+  padding-right: 10px;
+  text-align: right;
 }
 
-/* Move it (define the animation) */
-@-moz-keyframes td {
-  0%   { -moz-transform: translateX(100%); }
-  100% { -moz-transform: translateX(-100%); }
-}
-@-webkit-keyframes td {
-  0%   { -webkit-transform: translateX(100%); }
-  100% { -webkit-transform: translateX(-100%); }
-}
-@keyframes td {
-  0%  { 
-    -moz-transform: translateX(100%); /* Firefox bug fix */
-    -webkit-transform: translateX(100%); /* Firefox bug fix */
-    transform: translateX(100%);
-  }
-  100% { 
-    -moz-transform: translateX(-100%); /* Firefox bug fix */
-    -webkit-transform: translateX(-100%); /* Firefox bug fix */
-    transform: translateX(-100%); 
-  }
+.MMM-Bluebikes .name-cell {
+  text-align: left;
 }
