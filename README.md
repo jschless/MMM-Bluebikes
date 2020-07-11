@@ -9,17 +9,7 @@ This code borrows extensively from [MMM-Bubi](https://github.com/balassy/MMM-Bub
 
 By default this module displays the number of available bikes and the official names of the specified stations:
 
-![Default](https://raw.githubusercontent.com/balassy/MMM-Bubi/master/doc/screenshot-default.png)
-
-You can configure the module to display a custom (typically shorter) names for the stations:
-
-![With custom station names](https://raw.githubusercontent.com/balassy/MMM-Bubi/master/doc/screenshot-custom-place-name.png)
-
-If you wish, you can completely remove the station names:
-
-![With hidden station names](https://raw.githubusercontent.com/balassy/MMM-Bubi/master/doc/screenshot-no-place-name.png)
-
-For updates, please check the [CHANGELOG](https://github.com/balassy/MMM-Bubi/blob/master/CHANGELOG.md).
+![Default](https://raw.githubusercontent.com/jschless/MMM-Bluebikes/master/demo.png)
 
 ## Using the module
 
