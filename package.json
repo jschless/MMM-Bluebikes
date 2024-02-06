@@ -1,0 +1,21 @@
+{
+  "name": "mmm-bluebikes",
+  "version": "1.0.0",
+  "description": "Module for MagicMirror² to display available Boston Bluebike docks and bikes at selected stations.",
+  "main": "MMM-Bluebikes.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschless/MMM-Bluebikes.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Bluebikes",
+    "transit"
+  ],
+  "author": "jschless",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschless/MMM-Bluebikes/issues"
+  },
+  "homepage": "https://github.com/jschless/MMM-Bluebikes#readme"
+}
